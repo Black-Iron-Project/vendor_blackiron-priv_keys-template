@@ -1,9 +1,9 @@
 ```bash
-croot && git clone https://github.com/Evolution-XYZ/vendor_evolution-priv_keys-template vendor/evolution-priv/keys
+croot && git clone https://github.com/Black-Iron-Project/vendor_blackiron-priv_keys-template vendor/blackiron-priv/keys
 ```
 
 ```bash
-cd vendor/evolution-priv/keys
+cd vendor/blackiron-priv/keys
 ```
 
 ```bash
